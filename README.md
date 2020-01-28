@@ -1,3 +1,5 @@
+# !!! This repository is discontinued. This project has moved to [eclipse-emfcloud](https://github.com/eclipse-emfcloud/emfcloud) and will be maintained there !!!
+
 # emf.cloud
 This is the umbrella project for the [emf.cloud](https://projects.eclipse.org/projects/ecd.emfcloud) project.
 
